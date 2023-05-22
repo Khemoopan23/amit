@@ -13,7 +13,7 @@ I will take care of the rest. 😎"""
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
     MY_OWNER_TXT = """★ Name: A Jakhar
-★ Username: @anumitultrabots
+★ Username: @speedmovieprovider
 ★ ID: <code>1864861524</code>
 ★ Country: India 🇮🇳"""
 
